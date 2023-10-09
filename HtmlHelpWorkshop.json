@@ -9,11 +9,11 @@
             "hash": ""
         }
     },
-    "bin": "HtmlHelpWorkshop.exe",
+    "bin": "hhc.exe",
     "shortcuts": [
         [
-            "HtmlHelpWorkshop.exe",
-            "HtmlHelpWorkshop"
+            "hhc.exe",
+            "HTML Help Workshop"
         ]
     ],
     "checkver": "github",
