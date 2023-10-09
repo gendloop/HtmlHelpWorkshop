@@ -1,0 +1,5 @@
+
+PROJECT_NAME=HtmlHelpWorkshop
+HtmlHelpWorkshop_VERSION_MAJOR=4
+HtmlHelpWorkshop_VERSION_MINOR=74
+HtmlHelpWorkshop_VERSION_PATCH=8702
